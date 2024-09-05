@@ -20,7 +20,6 @@ A K-Nearest Neighbors (KNN) classifier implemented from scratch in Python, train
 3. Run the classifier
     ```bash
     python knn_pokemon_classifier.py
-
     
 ## Results
 
